@@ -22,9 +22,11 @@ SearchMate is CLI tool that helps in searching the equivalent content over the i
    `.pdf`(containg text and not text on images).
   - `Find Score` feartures lets you know how much of text in that link matchs yours.
   - Save results in a `.txt` file so you can refer it later.
-  - You can store the output which is by default named `results.txt` in the path you wish, 
+  - You can store the output which is by default named `results.txt` in the path you wish.
     
 >**Note:** Make sure that terminal is opened in the same directory where the tool files are kept.
+
+<img src = "https://github.com/techyhoney/SearchMate/blob/master/working.gif" />
 
 ## Supported Python Versions
 
