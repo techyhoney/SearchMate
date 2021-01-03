@@ -2,6 +2,12 @@
 ![license.MIT](https://img.shields.io/github/license/techyhoney/SearchMate) ![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg) ![GitHub top language](https://img.shields.io/github/languages/top/techyhoney/SearchMate)
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/techyhoney/SearchMate/v1/total)
 ![GitHub contributors](https://img.shields.io/github/contributors/techyhoney/SearchMate)
+<br/>
+<br/>
+
+<img src = "https://github.com/techyhoney/SearchMate/blob/master/search-mate.gif" />
+<br/>
+
 # SearchMate
 
 SearchMate is CLI tool that helps in searching the equivalent content over the internet by taking reference of a document (.txt,.pdf,.docx) and list down the URL with their appropriate find scores.
